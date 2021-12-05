@@ -1,22 +1,5 @@
-# Project Template Repo
-## This is the template repo for the Project Universe repo.
-### To create a new repo:
-* Edit project readme
-* Clone project into local folder
-* Make sure someone has run `docsify init ./docs`
-* Create Discord Chat and Webhook channels
-* Create Github Webhook
-* Create Github Team
-* Create Discord Team
-* Make sure Universe readme is up to date
-* Update **MEGA REPO**
-
--------------------
--------------------
--------------------
-
-# Project Name
-## Project Discription
+# shiny-waffle
+## VPN and Adblocker
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
 ### _Awaiting dev. Contact if interested._
